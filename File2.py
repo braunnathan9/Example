@@ -1,2 +1,2 @@
 # This is File Two (2)
-print("Silas is Gay")
+print("Silas is Cool")
